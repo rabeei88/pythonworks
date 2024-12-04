@@ -1,0 +1,18 @@
+collections = grp of objects  we use collection 
+
+1. list: duplicate
+         insertion order preserve
+         update
+         []
+         list()
+
+2. set: insertion order not preserve
+        all elements are unique
+        update
+        set{}
+
+3. tuple: immutable
+          no update 
+          {}
+
+4. dictionary: key value pairs

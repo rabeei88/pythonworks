@@ -1,0 +1,19 @@
+regular expression (re)
+
+from re import finditor,findall
+text="pingdjispinghudhpingjgi"
+ping_list=findall("",text)
+print(len(ping_list))
+
+# [0-9] if digits want to check
+# [a-z] if lower keys 
+# [A-Z] if upper keys
+# [a-zA-Z] 
+# [a-zA-Z0-9]
+# [^a-z] lower case letter exclude 
+# [0-9](2)
+# (91)? 91 is optional
+# (91)* zero or more occurance
+# (91)+ atmost one time
+
+

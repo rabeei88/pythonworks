@@ -1,0 +1,5 @@
+101,rabeei,django,350
+102,rahul,django,450
+103,benn,django,550
+104,riza,django,650
+105,sinan,django,750
